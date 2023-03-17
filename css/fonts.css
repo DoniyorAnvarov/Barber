@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Catamaran-Regular';
+    src: url(../fonts/Catamaran/Catamaran-Regular.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Catamaran-Bold';
+    src: url(../fonts/Catamaran/Catamaran-Bold.ttf);
+    font-weight: 700;
+}
